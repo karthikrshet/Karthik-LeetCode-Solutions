@@ -64,6 +64,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Happy Coding! 🚀
 | [0005-longest-palindromic-substring](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 ## String
 |  |
 | ------- |
@@ -121,4 +123,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
