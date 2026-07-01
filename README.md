@@ -77,6 +77,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 ## Dynamic Programming
 |  |
 | ------- |
