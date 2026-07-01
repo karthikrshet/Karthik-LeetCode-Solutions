@@ -54,3 +54,19 @@ I continuously update this repository as I solve new problems and improve my und
 This repository serves as a personal learning archive and interview preparation resource. Solutions may include multiple approaches with varying time and space complexities where applicable.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+<!---LeetCode Topics End-->
