@@ -68,6 +68,7 @@ Happy Coding! 🚀
 | [0018-4sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 ## Binary Search
 |  |
@@ -124,6 +125,7 @@ Happy Coding! 🚀
 | [0012-integer-to-roman](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0041-first-missing-positive](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
 ## Trie
 |  |
