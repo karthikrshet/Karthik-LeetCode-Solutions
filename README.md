@@ -70,6 +70,7 @@ Happy Coding! 🚀
 | [0040-combination-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1288-remove-covered-intervals](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Binary Search
 |  |
@@ -139,6 +140,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0018-4sum) |
+| [1288-remove-covered-intervals](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 ## Backtracking
 |  |
 | ------- |
