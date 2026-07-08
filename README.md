@@ -101,6 +101,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Happy Coding! 🚀
 | [0012-integer-to-roman](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -187,4 +189,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
