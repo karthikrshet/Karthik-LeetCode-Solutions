@@ -72,10 +72,12 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [1288-remove-covered-intervals](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +135,7 @@ Happy Coding! 🚀
 | [0017-letter-combinations-of-a-phone-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Trie
 |  |
 | ------- |
@@ -176,6 +179,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
@@ -193,4 +197,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
