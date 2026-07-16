@@ -75,6 +75,7 @@ Happy Coding! 🚀
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Happy Coding! 🚀
 | [0018-4sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -128,6 +130,7 @@ Happy Coding! 🚀
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -159,6 +162,7 @@ Happy Coding! 🚀
 | [0018-4sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0018-4sum) |
 | [1288-remove-covered-intervals](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -240,4 +244,9 @@ Happy Coding! 🚀
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
