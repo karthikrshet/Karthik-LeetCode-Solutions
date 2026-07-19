@@ -122,6 +122,7 @@ Happy Coding! 🚀
 | [0005-longest-palindromic-substring](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -132,6 +133,7 @@ Happy Coding! 🚀
 | [0009-palindrome-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -284,4 +286,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0100-same-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
