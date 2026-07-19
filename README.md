@@ -200,12 +200,14 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -274,4 +276,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
