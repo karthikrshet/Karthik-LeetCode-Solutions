@@ -72,6 +72,7 @@ Happy Coding! 🚀
 | [0041-first-missing-positive](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 ## Design
 |  |
@@ -272,6 +274,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
