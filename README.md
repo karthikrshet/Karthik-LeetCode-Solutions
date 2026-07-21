@@ -119,6 +119,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
@@ -142,6 +143,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -268,6 +270,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 ## Enumeration
 |  |
 | ------- |
