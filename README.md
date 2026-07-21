@@ -67,6 +67,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0041-first-missing-positive) |
@@ -105,6 +106,7 @@ Happy Coding! 🚀
 | [0016-3sum-closest](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
