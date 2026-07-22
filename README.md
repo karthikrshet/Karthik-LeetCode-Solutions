@@ -80,6 +80,7 @@ Happy Coding! 🚀
 | [0041-first-missing-positive](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0047-permutations-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -226,6 +227,7 @@ Happy Coding! 🚀
 | [0015-3sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [1288-remove-covered-intervals](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -237,6 +239,7 @@ Happy Coding! 🚀
 | [0037-sudoku-solver](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
 ## Linked List
