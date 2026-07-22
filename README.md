@@ -82,6 +82,7 @@ Happy Coding! 🚀
 | [0045-jump-game-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -148,6 +149,7 @@ Happy Coding! 🚀
 | [0038-count-and-say](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0168-excel-sheet-column-title](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -216,6 +218,7 @@ Happy Coding! 🚀
 | [0036-valid-sudoku](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -230,6 +233,7 @@ Happy Coding! 🚀
 | [0016-3sum-closest](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [1288-remove-covered-intervals](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
