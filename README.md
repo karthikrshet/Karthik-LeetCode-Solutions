@@ -181,6 +181,7 @@ Happy Coding! 🚀
 | [0029-divide-two-integers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -200,6 +201,7 @@ Happy Coding! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
