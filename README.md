@@ -269,6 +269,7 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -366,6 +367,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -373,6 +375,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -396,6 +399,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 ## Monotonic Stack
 |  |
