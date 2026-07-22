@@ -83,6 +83,7 @@ Happy Coding! 🚀
 | [0047-permutations-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -174,6 +175,7 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -222,6 +224,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0055-jump-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
