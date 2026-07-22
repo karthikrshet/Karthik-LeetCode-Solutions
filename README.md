@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0168-excel-sheet-column-title](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -170,6 +171,7 @@ Happy Coding! 🚀
 | [0012-integer-to-roman](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -328,6 +330,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
