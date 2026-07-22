@@ -168,6 +168,7 @@ Happy Coding! 🚀
 | [0045-jump-game-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -252,6 +253,7 @@ Happy Coding! 🚀
 | [0047-permutations-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0095-unique-binary-search-trees-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -368,6 +370,7 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -376,6 +379,7 @@ Happy Coding! 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
@@ -400,6 +404,7 @@ Happy Coding! 🚀
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
