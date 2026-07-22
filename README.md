@@ -150,6 +150,7 @@ Happy Coding! 🚀
 | [0043-multiply-strings](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0093-restore-ip-addresses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0097-interleaving-string) |
 | [0168-excel-sheet-column-title](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -253,6 +254,7 @@ Happy Coding! 🚀
 | [0047-permutations-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Linked List
 |  |
