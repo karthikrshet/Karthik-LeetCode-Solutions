@@ -273,6 +273,7 @@ Happy Coding! 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0100-same-tree) |
@@ -338,6 +339,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 ## Enumeration
 |  |
@@ -370,6 +372,7 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
@@ -379,6 +382,7 @@ Happy Coding! 🚀
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
