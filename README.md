@@ -263,6 +263,7 @@ Happy Coding! 🚀
 | [0021-merge-two-sorted-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0092-reverse-linked-list-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
 ## Heap (Priority Queue)
 |  |
