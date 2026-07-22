@@ -148,6 +148,7 @@ Happy Coding! 🚀
 | [0032-longest-valid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -161,6 +162,7 @@ Happy Coding! 🚀
 | [0029-divide-two-integers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -324,11 +326,13 @@ Happy Coding! 🚀
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Memoization
@@ -347,4 +351,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
