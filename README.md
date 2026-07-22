@@ -86,6 +86,7 @@ Happy Coding! 🚀
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -175,6 +176,7 @@ Happy Coding! 🚀
 | [0045-jump-game-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
@@ -318,6 +320,7 @@ Happy Coding! 🚀
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -354,6 +357,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 ## Enumeration
@@ -431,4 +435,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
