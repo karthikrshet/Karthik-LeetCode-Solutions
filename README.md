@@ -78,6 +78,7 @@ Happy Coding! 🚀
 | [0039-combination-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
@@ -122,6 +123,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -153,6 +155,7 @@ Happy Coding! 🚀
 | [0010-regular-expression-matching](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -307,6 +310,7 @@ Happy Coding! 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 ## Enumeration
 |  |
@@ -367,4 +371,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
