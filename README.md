@@ -116,6 +116,7 @@ Happy Coding! 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -219,6 +220,7 @@ Happy Coding! 🚀
 | [0062-unique-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
