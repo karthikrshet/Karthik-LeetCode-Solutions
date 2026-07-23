@@ -176,6 +176,7 @@ Happy Coding! 🚀
 | [0068-text-justification](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
@@ -269,6 +270,7 @@ Happy Coding! 🚀
 | [0041-first-missing-positive](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -472,6 +474,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 ## Binary Search Tree
 |  |
 | ------- |
