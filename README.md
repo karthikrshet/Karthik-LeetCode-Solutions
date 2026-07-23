@@ -185,6 +185,7 @@ Happy Coding! 🚀
 | [0045-jump-game-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -208,6 +209,7 @@ Happy Coding! 🚀
 | [0048-rotate-image](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -403,6 +405,7 @@ Happy Coding! 🚀
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
