@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [0049-group-anagrams](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0087-scramble-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0093-restore-ip-addresses) |
@@ -215,6 +216,7 @@ Happy Coding! 🚀
 | [0060-permutation-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
@@ -375,6 +377,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -406,6 +409,7 @@ Happy Coding! 🚀
 | [0043-multiply-strings](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
