@@ -100,6 +100,7 @@ Happy Coding! 🚀
 | [0078-subsets](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0090-subsets-ii) |
@@ -123,6 +124,7 @@ Happy Coding! 🚀
 | [0035-search-insert-position](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
