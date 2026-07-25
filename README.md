@@ -551,4 +551,8 @@ Happy Coding! 🚀
 | [0042-trapping-rain-water](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
