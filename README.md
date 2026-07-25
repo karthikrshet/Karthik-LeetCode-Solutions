@@ -419,6 +419,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Doubly-Linked List
 |  |
@@ -457,6 +458,7 @@ Happy Coding! 🚀
 | [0084-largest-rectangle-in-histogram](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 ## Enumeration
 |  |
