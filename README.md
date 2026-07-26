@@ -387,6 +387,7 @@ Happy Coding! 🚀
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -414,6 +415,7 @@ Happy Coding! 🚀
 | [0113-path-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -431,6 +433,7 @@ Happy Coding! 🚀
 | [0111-minimum-depth-of-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -565,6 +568,7 @@ Happy Coding! 🚀
 | [0113-path-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Binary Tree
 |  |
@@ -590,6 +594,7 @@ Happy Coding! 🚀
 | [0113-path-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 ## Memoization
 |  |
