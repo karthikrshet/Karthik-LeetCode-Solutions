@@ -114,6 +114,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0284-peeking-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0284-peeking-iterator) |
+| [0628-maximum-product-of-three-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -266,6 +267,7 @@ Happy Coding! 🚀
 | [0189-rotate-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [0628-maximum-product-of-three-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -332,6 +334,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0179-largest-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [2126-destroying-asteroids](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
