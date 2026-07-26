@@ -119,6 +119,7 @@ Happy Coding! 🚀
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1861-rotating-the-box](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -176,6 +177,7 @@ Happy Coding! 🚀
 | [0088-merge-sorted-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1861-rotating-the-box](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -449,6 +451,7 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [1861-rotating-the-box](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1861-rotating-the-box) |
 ## Design
 |  |
 | ------- |
