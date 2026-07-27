@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -279,6 +280,7 @@ Happy Coding! 🚀
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
@@ -332,6 +334,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -658,4 +661,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
