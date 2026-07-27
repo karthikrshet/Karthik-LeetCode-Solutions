@@ -110,6 +110,7 @@ Happy Coding! 🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0179-largest-number) |
@@ -255,6 +256,7 @@ Happy Coding! 🚀
 | [0115-distinct-subsequences](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0120-triangle) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0788-rotated-digits) |
