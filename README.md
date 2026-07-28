@@ -227,6 +227,7 @@ Happy Coding! 🚀
 | [0115-distinct-subsequences](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0168-excel-sheet-column-title](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -352,6 +353,7 @@ Happy Coding! 🚀
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -473,6 +475,7 @@ Happy Coding! 🚀
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
