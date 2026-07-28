@@ -114,6 +114,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0162-find-peak-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -354,6 +355,7 @@ Happy Coding! 🚀
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -484,6 +486,7 @@ Happy Coding! 🚀
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
