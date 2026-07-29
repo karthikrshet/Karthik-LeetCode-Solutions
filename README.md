@@ -538,6 +538,7 @@ Happy Coding! 🚀
 | ------- |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 ## Doubly-Linked List
@@ -581,6 +582,7 @@ Happy Coding! 🚀
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 ## Enumeration
 |  |
@@ -644,6 +646,7 @@ Happy Coding! 🚀
 | [0124-binary-tree-maximum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Tree
 |  |
 | ------- |
@@ -672,6 +675,7 @@ Happy Coding! 🚀
 | [0124-binary-tree-maximum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Memoization
 |  |
 | ------- |
@@ -699,6 +703,7 @@ Happy Coding! 🚀
 | [0099-recover-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -720,6 +725,7 @@ Happy Coding! 🚀
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 ## Ordered Set
 |  |
