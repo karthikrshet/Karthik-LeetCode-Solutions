@@ -119,6 +119,7 @@ Happy Coding! 🚀
 | [0134-gas-station](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -592,6 +593,7 @@ Happy Coding! 🚀
 | [0089-gray-code](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
