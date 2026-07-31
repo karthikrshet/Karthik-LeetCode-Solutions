@@ -120,6 +120,7 @@ Happy Coding! 🚀
 | [0135-candy](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -250,6 +251,7 @@ Happy Coding! 🚀
 | [0127-word-ladder](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -299,6 +301,7 @@ Happy Coding! 🚀
 | [0124-binary-tree-maximum-path-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -394,6 +397,7 @@ Happy Coding! 🚀
 | [0128-longest-consecutive-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -406,6 +410,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sorting
 |  |
@@ -712,6 +717,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0139-word-break) |
 ## Segment Tree
 |  |
 | ------- |
