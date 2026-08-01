@@ -348,6 +348,7 @@ Happy Coding! 🚀
 | [0172-factorial-trailing-zeroes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -658,6 +659,7 @@ Happy Coding! 🚀
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1622-fancy-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -672,6 +674,7 @@ Happy Coding! 🚀
 | [0059-spiral-matrix-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
