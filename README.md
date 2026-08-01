@@ -346,6 +346,7 @@ Happy Coding! 🚀
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0788-rotated-digits) |
+| [1622-fancy-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -580,6 +581,7 @@ Happy Coding! 🚀
 | [0173-binary-search-tree-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0284-peeking-iterator) |
+| [1622-fancy-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -636,6 +638,7 @@ Happy Coding! 🚀
 ## Number Theory
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -728,6 +731,7 @@ Happy Coding! 🚀
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String Matching
 |  |
