@@ -142,6 +142,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -615,6 +616,7 @@ Happy Coding! 🚀
 | [0130-surrounded-regions](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1861-rotating-the-box) |
@@ -706,6 +708,7 @@ Happy Coding! 🚀
 | [0067-add-binary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
