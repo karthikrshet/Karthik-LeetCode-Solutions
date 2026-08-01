@@ -185,6 +185,7 @@ Happy Coding! 🚀
 | [0148-sort-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -614,6 +615,7 @@ Happy Coding! 🚀
 | [0136-single-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
