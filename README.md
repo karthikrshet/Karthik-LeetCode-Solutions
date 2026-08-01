@@ -323,6 +323,7 @@ Happy Coding! 🚀
 | [0152-maximum-product-subarray](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -360,6 +361,7 @@ Happy Coding! 🚀
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
@@ -435,6 +437,7 @@ Happy Coding! 🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -521,6 +524,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
