@@ -267,6 +267,7 @@ Happy Coding! 🚀
 | [0179-largest-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0796-rotate-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -473,6 +474,7 @@ Happy Coding! 🚀
 | [0113-path-sum-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 ## Linked List
 |  |
@@ -533,6 +535,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0257-binary-tree-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -712,6 +715,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0257-binary-tree-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -742,6 +746,7 @@ Happy Coding! 🚀
 | [0144-binary-tree-preorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+| [0257-binary-tree-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 ## Memoization
 |  |
 | ------- |
