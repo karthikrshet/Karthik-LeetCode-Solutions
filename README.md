@@ -285,6 +285,7 @@ Happy Coding! 🚀
 | [0273-integer-to-english-words](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0796-rotate-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -570,6 +571,7 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -591,6 +593,7 @@ Happy Coding! 🚀
 | [0133-clone-graph](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -635,6 +638,7 @@ Happy Coding! 🚀
 | [0211-design-add-and-search-words-data-structure](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1622-fancy-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
@@ -759,6 +763,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -790,6 +795,7 @@ Happy Coding! 🚀
 | [0145-binary-tree-postorder-traversal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0257-binary-tree-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Memoization
 |  |
 | ------- |
