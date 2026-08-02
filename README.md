@@ -146,6 +146,7 @@ Happy Coding! 🚀
 | [0300-longest-increasing-subsequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0354-russian-doll-envelopes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0391-perfect-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -392,6 +393,7 @@ Happy Coding! 🚀
 | [0279-perfect-squares](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0391-perfect-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -472,6 +474,7 @@ Happy Coding! 🚀
 | [0290-word-pattern](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0355-design-twitter](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [0391-perfect-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -902,6 +905,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+| [0391-perfect-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -936,4 +940,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
