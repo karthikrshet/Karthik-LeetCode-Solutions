@@ -287,6 +287,7 @@ Happy Coding! 🚀
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -417,6 +418,7 @@ Happy Coding! 🚀
 | [0134-gas-station](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [2126-destroying-asteroids](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -453,6 +455,7 @@ Happy Coding! 🚀
 | [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -482,6 +485,7 @@ Happy Coding! 🚀
 | [0274-h-index](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [1288-remove-covered-intervals](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
@@ -542,6 +546,7 @@ Happy Coding! 🚀
 | [0023-merge-k-sorted-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
@@ -733,6 +738,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Tree
