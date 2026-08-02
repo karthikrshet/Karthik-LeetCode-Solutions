@@ -468,6 +468,7 @@ Happy Coding! 🚀
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0355-design-twitter](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -556,12 +557,14 @@ Happy Coding! 🚀
 | [0147-insertion-sort-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0355-design-twitter](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0355-design-twitter) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -667,6 +670,7 @@ Happy Coding! 🚀
 | [0295-find-median-from-data-stream](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0355-design-twitter](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [1622-fancy-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
 |  |
