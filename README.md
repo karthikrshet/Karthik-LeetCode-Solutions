@@ -146,6 +146,7 @@ Happy Coding! 🚀
 | [0300-longest-increasing-subsequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0332-reconstruct-itinerary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0391-perfect-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
@@ -211,6 +212,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -687,6 +689,7 @@ Happy Coding! 🚀
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0355-design-twitter) |
 | [1622-fancy-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 ## Doubly-Linked List
@@ -860,6 +863,7 @@ Happy Coding! 🚀
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [1622-fancy-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## String Matching
@@ -960,4 +964,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
