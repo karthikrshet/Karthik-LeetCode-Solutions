@@ -143,6 +143,7 @@ Happy Coding! 🚀
 | [0284-peeking-iterator](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0289-game-of-life) |
+| [0300-longest-increasing-subsequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -183,6 +184,7 @@ Happy Coding! 🚀
 | [0275-h-index-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -341,6 +343,7 @@ Happy Coding! 🚀
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0788-rotated-digits) |
