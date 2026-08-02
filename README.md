@@ -146,6 +146,7 @@ Happy Coding! 🚀
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0875-koko-eating-bananas](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
@@ -182,6 +183,7 @@ Happy Coding! 🚀
 | [0275-h-index-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0875-koko-eating-bananas](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
