@@ -148,6 +148,7 @@ Happy Coding! 🚀
 | [0304-range-sum-query-2d-immutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0391-perfect-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
@@ -446,6 +447,7 @@ Happy Coding! 🚀
 | [0135-candy](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0330-patching-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [2126-destroying-asteroids](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
