@@ -357,6 +357,7 @@ Happy Coding! 🚀
 | [0152-maximum-product-subarray](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0233-number-of-digit-one](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -398,6 +399,7 @@ Happy Coding! 🚀
 | [0172-factorial-trailing-zeroes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
@@ -435,6 +437,7 @@ Happy Coding! 🚀
 | [0050-powx-n](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0233-number-of-digit-one](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## Greedy
