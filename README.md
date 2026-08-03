@@ -135,6 +135,7 @@ Happy Coding! 🚀
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0274-h-index) |
@@ -591,6 +592,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
@@ -898,6 +900,7 @@ Happy Coding! 🚀
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search Tree
@@ -1017,4 +1020,16 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
