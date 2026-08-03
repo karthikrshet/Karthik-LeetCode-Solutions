@@ -148,6 +148,7 @@ Happy Coding! 🚀
 | [0304-range-sum-query-2d-immutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0324-wiggle-sort-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0330-patching-array) |
 | [0332-reconstruct-itinerary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0354-russian-doll-envelopes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
@@ -359,6 +360,7 @@ Happy Coding! 🚀
 | [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -625,6 +627,7 @@ Happy Coding! 🚀
 | [0211-design-add-and-search-words-data-structure](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -650,6 +653,7 @@ Happy Coding! 🚀
 | [0279-perfect-squares](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -682,6 +686,7 @@ Happy Coding! 🚀
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1861-rotating-the-box) |
@@ -719,6 +724,7 @@ Happy Coding! 🚀
 | ------- |
 | [0133-clone-graph](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -869,6 +875,7 @@ Happy Coding! 🚀
 | ------- |
 | [0070-climbing-stairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Segment Tree
 |  |
 | ------- |
@@ -966,6 +973,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Sweep Line
 |  |
 | ------- |
@@ -990,4 +998,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
