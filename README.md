@@ -253,6 +253,7 @@ Happy Coding! 🚀
 | [0165-compare-version-numbers](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
@@ -404,6 +405,7 @@ Happy Coding! 🚀
 | [0171-excel-sheet-column-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0258-add-digits) |
@@ -494,6 +496,7 @@ Happy Coding! 🚀
 | [0160-intersection-of-two-linked-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -1043,4 +1046,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
