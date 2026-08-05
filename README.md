@@ -308,6 +308,7 @@ Happy Coding! 🚀
 | [0179-largest-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
@@ -497,6 +498,7 @@ Happy Coding! 🚀
 | [0166-fraction-to-recurring-decimal](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0290-word-pattern) |
@@ -531,6 +533,7 @@ Happy Coding! 🚀
 | [0164-maximum-gap](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
