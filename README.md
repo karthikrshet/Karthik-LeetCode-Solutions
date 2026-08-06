@@ -320,6 +320,7 @@ Happy Coding! 🚀
 | [0301-remove-invalid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0306-additive-number) |
 | [0332-reconstruct-itinerary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0387-first-unique-character-in-a-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -507,6 +508,7 @@ Happy Coding! 🚀
 | [0290-word-pattern](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
 | [0355-design-twitter](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0391-perfect-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
@@ -838,6 +840,7 @@ Happy Coding! 🚀
 | ------- |
 | [0169-majority-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0299-bulls-and-cows) |
+| [0387-first-unique-character-in-a-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0767-reorganize-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1054,6 +1057,7 @@ Happy Coding! 🚀
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
 |  |
 | ------- |
