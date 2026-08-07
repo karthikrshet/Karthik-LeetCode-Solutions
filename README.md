@@ -326,6 +326,7 @@ Happy Coding! 🚀
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -433,6 +434,7 @@ Happy Coding! 🚀
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -470,6 +472,7 @@ Happy Coding! 🚀
 | [2126-destroying-asteroids](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -582,6 +585,7 @@ Happy Coding! 🚀
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0306-additive-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0306-additive-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -816,6 +820,7 @@ Happy Coding! 🚀
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
