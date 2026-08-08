@@ -168,6 +168,7 @@ Happy Coding! 🚀
 | [1406-stone-game-iii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1861-rotating-the-box](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -734,6 +735,7 @@ Happy Coding! 🚀
 | [1260-shift-2d-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1861-rotating-the-box](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Design
