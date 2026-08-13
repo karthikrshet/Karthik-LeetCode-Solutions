@@ -467,6 +467,7 @@ Happy Coding! 🚀
 | [0050-powx-n](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -632,6 +633,7 @@ Happy Coding! 🚀
 | [0147-insertion-sort-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0355-design-twitter) |
 ## Heap (Priority Queue)
