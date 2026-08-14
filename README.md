@@ -135,6 +135,7 @@ Happy Coding! 🚀
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -526,6 +527,7 @@ Happy Coding! 🚀
 | [0169-majority-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -566,6 +568,7 @@ Happy Coding! 🚀
 | [0164-maximum-gap](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0274-h-index) |
