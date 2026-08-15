@@ -438,6 +438,7 @@ Happy Coding! 🚀
 | [0279-perfect-squares](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0391-perfect-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -475,6 +476,7 @@ Happy Coding! 🚀
 | [0206-reverse-linked-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
+| [0326-power-of-three](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
