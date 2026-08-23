@@ -216,6 +216,7 @@ Happy Coding! 🚀
 | [0287-find-the-duplicate-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -453,6 +454,7 @@ Happy Coding! 🚀
 | [0282-expression-add-operators](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0391-perfect-rectangle](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0486-predict-the-winner) |
