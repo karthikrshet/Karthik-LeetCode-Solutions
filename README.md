@@ -173,6 +173,7 @@ Happy Coding! 🚀
 | [1563-stone-game-v](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1861-rotating-the-box](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -412,6 +413,7 @@ Happy Coding! 🚀
 | [1406-stone-game-iii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -466,6 +468,7 @@ Happy Coding! 🚀
 | [1510-stone-game-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1622-fancy-sequence) |
+| [1872-stone-game-viii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
@@ -824,6 +827,7 @@ Happy Coding! 🚀
 | [0303-range-sum-query-immutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1140-stone-game-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -1092,6 +1096,7 @@ Happy Coding! 🚀
 | [1406-stone-game-iii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Interactive
@@ -1138,6 +1143,7 @@ Happy Coding! 🚀
 | [1140-stone-game-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1145,6 +1151,7 @@ Happy Coding! 🚀
 | [1140-stone-game-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 ## Directed Acyclic Graph
 |  |
