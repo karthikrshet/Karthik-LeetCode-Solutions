@@ -403,6 +403,7 @@ Happy Coding! 🚀
 | [0300-longest-increasing-subsequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0396-rotate-function) |
@@ -863,6 +864,7 @@ Happy Coding! 🚀
 | [0260-single-number-iii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
