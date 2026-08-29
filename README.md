@@ -182,6 +182,7 @@ Happy Coding! 🚀
 | [2213-longest-substring-of-one-repeating-character](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -626,6 +627,7 @@ Happy Coding! 🚀
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3413-maximum-coins-from-k-consecutive-bags](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3413-maximum-coins-from-k-consecutive-bags) |
@@ -781,6 +783,7 @@ Happy Coding! 🚀
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Matrix
