@@ -691,6 +691,7 @@ Happy Coding! 🚀
 | [0206-reverse-linked-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0355-design-twitter) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
