@@ -756,6 +756,7 @@ Happy Coding! 🚀
 | [0332-reconstruct-itinerary](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0404-sum-of-left-leaves](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -1010,6 +1011,7 @@ Happy Coding! 🚀
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1047,6 +1049,7 @@ Happy Coding! 🚀
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/karthikrshet/Karthik-LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Memoization
 |  |
 | ------- |
